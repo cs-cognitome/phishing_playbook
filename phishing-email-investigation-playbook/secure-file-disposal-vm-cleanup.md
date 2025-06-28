@@ -1,6 +1,6 @@
 # Secure File Disposal / VM Cleanup
 
-### STEP 1: Securely Dispose of the `.eml` File
+### :closed\_lock\_with\_key: STEP 1: Securely Dispose of the `.eml` File
 
 You must not just delete the file — some malware or embedded exploits may persist in memory or leave behind temp artifacts.
 
@@ -33,7 +33,7 @@ wipe your_file.txt
 
 
 
-### STEP 2: Clean Temporary or Suspicious Files
+### :card\_box: STEP 2: Clean Temporary or Suspicious Files
 
 #### Recommended Manual Checks:
 
@@ -59,7 +59,7 @@ find . -name "*.exe" -o -name "*.vbs" -o -name "*.ps1" -delete
 
 
 
-### STEP 3: Revert to Snapshot (Best Practice)
+### :frame\_photo: STEP 3: Revert to Snapshot (Best Practice)
 
 If you took a **VM snapshot before the investigation**, you now:
 
@@ -93,7 +93,7 @@ Then reboot.
 
 ###
 
-### ✅ Summary: How to Finish Clean
+### :man\_mage: Summary: How to Finish Clean
 
 | Task                 | Command                                   |
 | -------------------- | ----------------------------------------- |

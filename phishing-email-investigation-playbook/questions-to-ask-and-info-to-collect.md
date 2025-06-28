@@ -1,6 +1,6 @@
 # Questions To Ask
 
-## Gathering Email Artifacts:&#x20;
+## :e-mail: Gathering Email Artifacts:&#x20;
 
 1. What's the sender email address?&#x20;
 2. What is the display name?&#x20;
@@ -15,7 +15,7 @@
 
 
 
-### Gathering file artifacts:&#x20;
+## :file\_folder: Gathering File Artifacts:&#x20;
 
 1. What is the file name + extension?&#x20;
 2. Is the file type consistent with its icon/label?&#x20;
@@ -27,7 +27,7 @@
 
 
 
-### Gathering web artifacts:&#x20;
+## :spider\_web: Gathering Web Artifacts:&#x20;
 
 1. What is the visible vs. real URL?&#x20;
 2. Is the site live? What does it do?&#x20;
@@ -38,9 +38,9 @@
 
 
 
-### Defensive measures:&#x20;
+## :person\_fencing: Defensive measures:&#x20;
 
-<table data-header-hidden><thead><tr><th width="304">Category</th><th>Action</th></tr></thead><tbody><tr><td>Containment</td><td>Block sender IP/domain, isolate device</td></tr><tr><td>Prevention</td><td>Update mail filters, sandbox policy</td></tr><tr><td>Detection</td><td>Add hash/URL to threat intel system</td></tr><tr><td>Awareness</td><td>Notify user base or affected team</td></tr><tr><td>Forensics</td><td>Store copy of email, logs, memory for DFIR</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="304">Category</th><th>Action</th></tr></thead><tbody><tr><td>Containment </td><td>Block sender IP/domain, isolate device</td></tr><tr><td>Prevention</td><td>Update mail filters, sandbox policy</td></tr><tr><td>Detection</td><td>Add hash/URL to threat intel system</td></tr><tr><td>Awareness</td><td>Notify user base or affected team</td></tr><tr><td>Forensics</td><td>Store copy of email, logs, memory for DFIR</td></tr></tbody></table>
 
 \
 

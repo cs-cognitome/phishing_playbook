@@ -10,7 +10,7 @@ The goal was to create a repo that will walk you through the full analysis lifec
 \
 
 
-### What’s Inside:&#x20;
+### :tophat: What’s Inside:&#x20;
 
 #### Core Goals:
 
@@ -22,7 +22,7 @@ The goal was to create a repo that will walk you through the full analysis lifec
 
 
 
-### Tools Used (growing list)
+### :toolbox: Tools Used (growing list)
 
 This playbook will feature a living library of tools, including:
 
@@ -37,7 +37,7 @@ This playbook will feature a living library of tools, including:
 
 
 
-### Process Overview
+### :clapper: Process Overview
 
 Each phishing analysis follows a full-stack approach:
 
@@ -63,7 +63,7 @@ Each phishing analysis follows a full-stack approach:
 
 
 
-### Who This Is For
+### :question: Who This Is For
 
 * Aspiring SOC analysts
 * Cybersecurity students
@@ -74,7 +74,7 @@ No experience? No problem. This playbook explains **what to do**, **why it matte
 
 
 
-### Coming Soon: Honeypot
+### :honey\_pot: Coming Soon: Honeypot
 
 I am about to set up a custom **honeypot** to collect real phishing samples in a controlled environment. This will feed the playbook with fresh, real-world emails.
 

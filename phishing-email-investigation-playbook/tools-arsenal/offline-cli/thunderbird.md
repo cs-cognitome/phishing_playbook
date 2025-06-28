@@ -1,10 +1,11 @@
 # thunderbird
 
-1. Download from the official website: [https://www.thunderbird.net/en-GB/thunderbird/all/](https://www.thunderbird.net/en-GB/thunderbird/all/)
+**Download from the official website:** [**https://www.thunderbird.net/en-GB/thunderbird/all/**](https://www.thunderbird.net/en-GB/thunderbird/all/)
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-2. Unpack it&#x20;
+\
+**Unpack it**&#x20;
 
 ```bash
 tar -xjf thunderbird-*.tar.bz2
@@ -12,7 +13,7 @@ tar -xjf thunderbird-*.tar.bz2
 
 
 
-3. Put it somewhere tidy&#x20;
+**Put it somewhere tidy**&#x20;
 
 {% code overflow="wrap" %}
 ```bash
@@ -33,7 +34,7 @@ What does this line do: `sudo ln -s /opt/thunderbird/thunderbird /usr/local/bin/
 
 
 
-4. Add a desktop icon (one-liner)
+**Add a desktop icon (one-liner)**
 
 ```bash
 cat > ~/.local/share/applications/thunderbird.desktop <<'EOF'
@@ -50,7 +51,7 @@ update-desktop-database ~/.local/share/applications
 
 
 
-5. Launch and update&#x20;
+**Launch and update**&#x20;
 
 ```bash
 thunderbird &

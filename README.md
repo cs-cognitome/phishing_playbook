@@ -20,6 +20,7 @@ The goal was to create a repo that will walk you through the full analysis lifec
 * Drill every day until response becomes instinct
 * Build your **tool arsenal** and keep it sharp
 * Keep operations **safe**, **clean**, and **documented**
+<br/> 
 
 
 

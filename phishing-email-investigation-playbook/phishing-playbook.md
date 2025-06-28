@@ -1,6 +1,15 @@
-# Artifacts to collect
+# Artifacts To Collect
 
-### Manually: email artifacts to collect  <a href="#manually-email-artifacts-to-collect" id="manually-email-artifacts-to-collect"></a>
+### Manually: Email Artifacts To Collect  <a href="#manually-email-artifacts-to-collect" id="manually-email-artifacts-to-collect"></a>
+
+#### How to Access Raw Headers:
+
+* **Gmail**: More (⋮) → _Show Original_
+* **Outlook Desktop**: File → Properties → Internet Headers
+* **Outlook Web**: More actions (⋯) → _View > View message details_
+* **Thunderbird**: View → Message Source
+
+
 
 | Artifact                             | Where to find                                              | Purpose                                                              |
 | ------------------------------------ | ---------------------------------------------------------- | -------------------------------------------------------------------- |
@@ -25,14 +34,7 @@
 
 
 
-#### How to Access Raw Headers:
-
-* **Gmail**: More (⋮) → _Show Original_
-* **Outlook Desktop**: File → Properties → Internet Headers
-* **Outlook Web**: More actions (⋯) → _View > View message details_
-* **Thunderbird**: View → Message Source
-
-
+#### List of tools (to be updated)&#x20;
 
 | Purpose                         | Tool                                                                                        | Notes                                              |
 | ------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------- |
@@ -43,14 +45,20 @@
 | Raw header & MIME structure     | ​[Google Admin Toolbox: Messageheader](https://toolbox.googleapps.com/apps/messageheader/)​ | Visualizes delay paths, header fields              |
 | Social/email presence           | ​[Hunter.io](https://hunter.io/) / [HaveIBeenPwned](https://haveibeenpwned.com/)​           | Check sender identity and data breach exposure     |
 
-\
-
-
-***
 
 
 
-### Manually: WEB artifacts to collect + tools  <a href="#manually-web-artifacts-to-collect" id="manually-web-artifacts-to-collect"></a>
+
+### Manually: Web Artifacts To Collect <a href="#manually-web-artifacts-to-collect" id="manually-web-artifacts-to-collect"></a>
+
+**Safety Tips:**
+
+* Use **incognito** in **virtual machine**
+* Block all outbound traffic with a **firewall**
+* Never enter real credentials
+* **Disable JavaScript** where possible (using NoScript or manual browser dev tools)&#x20;
+
+
 
 | Artifact                              | Where to find                                                                  | Purpose                                                                  |
 | ------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
@@ -84,18 +92,7 @@
 
 
 
-**SAFETY TIPS:**
 
-* CUse **incognito** in **virtual machine**
-* Block all outbound traffic with a **firewall**
-* Never enter real credentials
-* **Disable JavaScript** where possible (using NoScript or manual browser dev tools)&#x20;
-
-
-
-
-
-***
 
 
 
@@ -126,7 +123,7 @@
 
 &#x20;
 
-
+#### List of tools (to be updated)&#x20;
 
 | Purpose                            | Tool                                                                             | Notes                                                      |
 | ---------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------- |

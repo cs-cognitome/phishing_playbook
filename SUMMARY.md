@@ -2,10 +2,10 @@
 
 * [Phishing Playbook](README.md)
 * [Phishing Email Investigation Process](phishing-email-investigation-playbook/README.md)
-  * [Safe Handling / VM prep](phishing-email-investigation-playbook/safe-handling-vm-prep.md)
+  * [Safe Handling / VM Prep](phishing-email-investigation-playbook/safe-handling-vm-prep.md)
   * [Secure File Disposal / VM Cleanup](phishing-email-investigation-playbook/secure-file-disposal-vm-cleanup.md)
-  * [Artifacts to collect](phishing-email-investigation-playbook/phishing-playbook.md)
-  * [Questions to ask](phishing-email-investigation-playbook/questions-to-ask-and-info-to-collect.md)
+  * [Artifacts To Collect](phishing-email-investigation-playbook/phishing-playbook.md)
+  * [Questions To Ask](phishing-email-investigation-playbook/questions-to-ask-and-info-to-collect.md)
   * [Email Analysis](phishing-email-investigation-playbook/email-analysis/README.md)
     * [Sample-1](phishing-email-investigation-playbook/email-analysis/sample-1.md)
     * [Sample-2](phishing-email-investigation-playbook/email-analysis/sample-2.md)
@@ -17,4 +17,3 @@
       * [oletools](phishing-email-investigation-playbook/tools-arsenal/offline-cli/oletools.md)
       * [sublime-text](phishing-email-investigation-playbook/tools-arsenal/offline-cli/sublime-text.md)
       * [thunderbird](phishing-email-investigation-playbook/tools-arsenal/offline-cli/thunderbird.md)
-* [Table of contents](table-of-contents.md)

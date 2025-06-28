@@ -1,8 +1,6 @@
-# Questions to ask
+# Questions To Ask
 
-## Questions to ask —&#x20;
-
-### Gathering email artifacts:&#x20;
+## Gathering Email Artifacts:&#x20;
 
 1. What's the sender email address?&#x20;
 2. What is the display name?&#x20;

@@ -5,15 +5,17 @@ As for the 3rd one I've chosen The Planet's Prestige — BTLO retired challenge.
 Let's start from email artifacts gathering. \
 
 
-1\) Download .eml file on ParrotOS virtual machine → unzip the file. \
+**1) Download .eml file on ParrotOS virtual machine → unzip the file.** \
 \
 ![](<../../.gitbook/assets/image (14).png>)\
 \
-2\) For manual analysis I prefer Sublime Text, but you can use any editor you like (Pluma, VSCodium, NotePad++ (if on Windows)).&#x20;
+\
+**2) For manual analysis I prefer Sublime Text, but you can use any editor you like** (Pluma, VSCodium, NotePad++ (if on Windows)).&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3\) So what useful information we can gather immediately while surfing the .eml file?&#x20;
+\
+**3) So what useful information we can gather immediately while surfing the .eml file?**&#x20;
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
@@ -129,11 +131,12 @@ We need to decode it to see what's there. That's where CyberChef comes in handy.
 >
 > "...my advice for the puzzle is “Don't Trust Your Eyes”"
 
-&#x20;Okay, solve the puzzle but "don't trust your eyes". Sort of a hint.&#x20;
+&#x20;Okay, solve the puzzle but "don't trust your eyes". Sort of a hint. \
 
 
 
-4\) **Let's go to the attachment**, which we can see as PuzzleToCoCanDa.pdf file
+
+**4) Let's go to the attachment, which we can see as PuzzleToCoCanDa.pdf file**
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure></div>
 

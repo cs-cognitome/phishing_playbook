@@ -2,7 +2,9 @@
 
 ### 1. Debian/Ubuntu (Parrot OS)
 
-**1) Install prerequisites & add GPG key**
+
+
+**Install prerequisites & add GPG key**
 
 ```bash
 sudo apt update && sudo apt install -y wget gnupg
@@ -10,7 +12,7 @@ wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add
 ```
 
 \
-**2) Select the channel**
+**Select the channel**
 
 Stable:
 
@@ -26,7 +28,7 @@ echo "deb https://download.sublimetext.com/ apt/dev/" | sudo tee /etc/apt/source
 
 
 
-**3) Update & install**
+**Update & install**
 
 ```bash
 sudo apt update
@@ -35,7 +37,7 @@ sudo apt install sublime-text
 
 
 
-**4) Verify**
+**Verify**
 
 ```bash
 sublimetext --version

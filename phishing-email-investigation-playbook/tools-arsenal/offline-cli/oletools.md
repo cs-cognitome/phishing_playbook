@@ -2,7 +2,7 @@
 
 These are part of the **`oletools`** suite, which is essential for phishing and malware analysis, especially for **Office document macros** (`.doc`, `.xls`, `.ppt`, etc).
 
-***
+
 
 ### Install via `pip`
 
@@ -22,7 +22,7 @@ This gives you access to:
 | `mraptor` | Detects suspicious macro code                     |
 | `rtfobj`  | Extracts embedded objects from RTF files          |
 
-***
+
 
 ### Confirm It’s Working
 
@@ -42,7 +42,7 @@ You should see output like:
 | ...      | ...            |
 ```
 
-***
+
 
 ### Optional: Upgrade&#x20;
 

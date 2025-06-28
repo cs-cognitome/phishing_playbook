@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Phishing Email Investigation Playbook](./)
+  * [Safe Handling / VM prep](phishing-email-investigation-playbook/safe-handling-vm-prep.md)
+  * [Tools Arsenal](phishing-email-investigation-playbook/tools-arsenal/)
+    * [online](phishing-email-investigation-playbook/tools-arsenal/online.md)
+    * [offline/cli](phishing-email-investigation-playbook/tools-arsenal/offline-cli/)
+      * [CyberChef](phishing-email-investigation-playbook/tools-arsenal/offline-cli/cyberchef.md)
+      * [oletools](phishing-email-investigation-playbook/tools-arsenal/offline-cli/oletools.md)
+      * [sublime-text](phishing-email-investigation-playbook/tools-arsenal/offline-cli/sublime-text.md)
+  * [Email Analysis](phishing-email-investigation-playbook/email-analysis/)
+    * [Sample-1](phishing-email-investigation-playbook/email-analysis/sample-1.md)
+    * [Sample-2](phishing-email-investigation-playbook/email-analysis/sample-2.md)
+    * [Sample-3](phishing-email-investigation-playbook/email-analysis/sample-3.md)
+    * [Phishing playbook](phishing-email-investigation-playbook/phishing-playbook.md)
+      * [Questions to ask](phishing-email-investigation-playbook/questions-to-ask-and-info-to-collect.md)
+  * [Secure File Disposal / VM Cleanup](phishing-email-investigation-playbook/secure-file-disposal-vm-cleanup.md)

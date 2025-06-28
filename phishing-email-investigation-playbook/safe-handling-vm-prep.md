@@ -81,7 +81,7 @@ Run `htop`, `netstat`, or even install **Sysdig / AuditD** to watch for:
 
 
 
-### ✅ Summary Checklist
+### :man\_mage: Summary Checklist
 
 | Setting                    | Recommendation                                |
 | -------------------------- | --------------------------------------------- |

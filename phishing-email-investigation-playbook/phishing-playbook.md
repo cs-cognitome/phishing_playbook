@@ -1,6 +1,6 @@
 # Artifacts To Collect
 
-### Manually: Email Artifacts To Collect  <a href="#manually-email-artifacts-to-collect" id="manually-email-artifacts-to-collect"></a>
+### :e-mail: Manually: Email Artifacts To Collect  <a href="#manually-email-artifacts-to-collect" id="manually-email-artifacts-to-collect"></a>
 
 #### How to Access Raw Headers:
 
@@ -34,7 +34,7 @@
 
 
 
-#### List of tools (to be updated)&#x20;
+#### :toolbox: List of tools (to be updated)&#x20;
 
 | Purpose                         | Tool                                                                                        | Notes                                              |
 | ------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------- |
@@ -49,7 +49,7 @@
 
 
 
-### Manually: Web Artifacts To Collect <a href="#manually-web-artifacts-to-collect" id="manually-web-artifacts-to-collect"></a>
+### :spider\_web: Manually: Web Artifacts To Collect <a href="#manually-web-artifacts-to-collect" id="manually-web-artifacts-to-collect"></a>
 
 **Safety Tips:**
 
@@ -96,7 +96,7 @@
 
 
 
-### Manually: File Artifacts to Collect&#x20;
+### :file\_folder: Manually: File Artifacts to Collect&#x20;
 
 | Artifact                                  | Where to find                                                         | Purpose                                                             |
 | ----------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -123,7 +123,7 @@
 
 &#x20;
 
-#### List of tools (to be updated)&#x20;
+#### :toolbox: List of tools (to be updated)&#x20;
 
 | Purpose                            | Tool                                                                             | Notes                                                      |
 | ---------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------- |

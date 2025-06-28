@@ -127,3 +127,6 @@ Run `htop`, `netstat`, or even install **Sysdig / AuditD** to watch for:
 | IP    | `192.168.1.1`          | `192[.]168[.]1[.]1`        |
 | Email | `attacker@example.com` | `attacker[@]example[.]com` |
 
+
+
+#### Tool for this: [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)

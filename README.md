@@ -7,7 +7,7 @@
 This playbook is created to make **phishing email analysis a daily habit** – not just a skill, but a reflex. Every incident becomes an opportunity to sharpen detection, investigation, and response skills.
 
 The goal was to create a repo that will walk you through the full analysis lifecycle — manual and automated.\
-\
+
 
 
 ### What’s Inside:&#x20;

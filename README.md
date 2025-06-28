@@ -1,14 +1,13 @@
 # Phishing Playbook
 
-**Phishing Playbook** – a hands-on, evolving resource for investigating phishing emails. This project is both a personal training ground and a practical guide for aspiring defenders. <br/>
+**Phishing Playbook** – a hands-on, evolving resource for investigating phishing emails. This project is both a personal training ground and a practical guide for aspiring defenders.
 
 ### Purpose:&#x20;
 
 This playbook is created to make **phishing email analysis a daily habit** – not just a skill, but a reflex. Every incident becomes an opportunity to sharpen detection, investigation, and response skills.
 
-The goal was to create a repo that will walk you through the full analysis lifecycle — manual and automated.<br/>
-<br/>
-
+The goal was to create a repo that will walk you through the full analysis lifecycle — manual and automated.\
+\
 
 
 ### What’s Inside:&#x20;
@@ -20,7 +19,6 @@ The goal was to create a repo that will walk you through the full analysis lifec
 * Drill every day until response becomes instinct
 * Build your **tool arsenal** and keep it sharp
 * Keep operations **safe**, **clean**, and **documented**
-<br/> 
 
 
 

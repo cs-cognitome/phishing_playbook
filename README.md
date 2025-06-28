@@ -81,6 +81,6 @@ I am about to set up a custom **honeypot** to collect real phishing samples in a
 
 
 
-### 📬 Want to Contribute?
+### :mailbox\_closed: Want to Contribute?
 
 Suggestions, tool ideas, or phishing samples? Create a pull request, please.

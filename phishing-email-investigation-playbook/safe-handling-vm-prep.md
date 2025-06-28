@@ -1,6 +1,6 @@
-# Safe Handling / VM prep
+# Safe Handling / VM Preparation
 
-### Safe Handling Advice:
+### :safety\_vest: Safe Handling Advice:
 
 * Do not open live attachments unless in **isolated VMs or sandboxes**
 * Avoid clicking URLs without sandboxing (use URLScan.io or ANY.RUN)
@@ -94,7 +94,7 @@ Run `htop`, `netstat`, or even install **Sysdig / AuditD** to watch for:
 
 
 
-## What is defanging and why do we need it?&#x20;
+## :safety\_vest: What is defanging and why do we need it?&#x20;
 
 **Defanging** is the process of modifying malicious indicators (like URLs, IPs, or email addresses) so they can't be accidentally clicked or executed — while still keeping them readable for analysis.
 

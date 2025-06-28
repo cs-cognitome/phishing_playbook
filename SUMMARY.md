@@ -2,7 +2,7 @@
 
 * [Phishing Playbook](README.md)
 * [Phishing Email Investigation Process](phishing-email-investigation-playbook/README.md)
-  * [Safe Handling / VM Prep](phishing-email-investigation-playbook/safe-handling-vm-prep.md)
+  * [Safe Handling / VM Preparation](phishing-email-investigation-playbook/safe-handling-vm-prep.md)
   * [Secure File Disposal / VM Cleanup](phishing-email-investigation-playbook/secure-file-disposal-vm-cleanup.md)
   * [Artifacts To Collect](phishing-email-investigation-playbook/phishing-playbook.md)
   * [Questions To Ask](phishing-email-investigation-playbook/questions-to-ask-and-info-to-collect.md)

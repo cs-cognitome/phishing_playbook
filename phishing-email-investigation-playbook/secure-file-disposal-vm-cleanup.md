@@ -31,6 +31,10 @@ wipe your_file.txt
 
 ***
 
+
+
+
+
 ### STEP 2: Clean Temporary or Suspicious Files
 
 #### Recommended Manual Checks:
@@ -53,7 +57,9 @@ rm ~/.bash_history
 find . -name "*.exe" -o -name "*.vbs" -o -name "*.ps1" -delete
 ```
 
-***
+
+
+###
 
 ### STEP 3: Revert to Snapshot (Best Practice)
 
@@ -85,9 +91,11 @@ Then reboot.
 #### OR wipe & rebuild the VM:
 
 * Export your analysis reports
-* Delete and rebuild Kali from ISO
+* Delete and rebuild Kali/Parrot/any VM from ISO
 
-***
+###
+
+###
 
 ### ✅ Summary: How to Finish Clean
 

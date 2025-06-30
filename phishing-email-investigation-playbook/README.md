@@ -1,6 +1,6 @@
 # Phishing Email Investigation Process
 
-## Includes:&#x20;
+### Includes:&#x20;
 
 1. Safe Handling
 2. VM preparation&#x20;
